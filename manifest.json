@@ -1,0 +1,8 @@
+{
+  "project_root": ".",
+  "modules": "CC.Physc",
+  "entry_points": "",
+  "priority": "",
+  "repo_urls": "https://github.com/Conscience-Constellator/CC.Physc",
+  "notes": "No mains"
+}
